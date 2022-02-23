@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter in answer to a friend, upon notice of a book entituled, A short view of the late troubles in England wherein in the VIIIth chapter the occasion of the execrable Irish rebellion XLI is egregiously mistaken.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48109</idno>
+            <idno type="STC">Wing L1555</idno>
+            <idno type="STC">ESTC R3008</idno>
+            <idno type="EEBO-CITATION">12890113</idno>
+            <idno type="OCLC">ocm 12890113</idno>
+            <idno type="VID">95092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95092)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter in answer to a friend, upon notice of a book entituled, A short view of the late troubles in England wherein in the VIIIth chapter the occasion of the execrable Irish rebellion XLI is egregiously mistaken.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randall Taylor ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dugdale, William, --  Sir, 1605-1686. --  Short view of the late trouble in England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:95092:1" rendition="simple:additions"/>
+            <head>A LETTER IN ANSWER TO A FRIEND, Upon Notice of a Book Entituled, <hi>A Short View of the Late Troubles in</hi> England, Wherein in the VIII<hi rend="sup">th.</hi> Chapter the Occaſion of the Execrable <hi>Iriſh</hi> Rebellion XLI. is egregiouſly miſtaken.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S ſoon as I received Yours of the 26<hi rend="sup">th.</hi> Inſtant, I immediately enquired for <hi>The ſhort View of the Late Troubles in</hi> England, which I found at our Stationers: I fell preſently on the Eighth Chapter, which (as you have obſerv'd) ought to be Correct<g ref="char:EOLhyphen"/>ed; the Author endeavouring to make the Grand <hi>Conſpira<g ref="char:EOLhyphen"/>tors</hi> in the Long Parliament 41. a <hi>Great Occaſion of the</hi> Iriſh <hi>Inſurrection, though not of their Counſell and Contrivance.</hi>
+            </p>
+            <p>I have nothing to plead for thoſe Conſpirators, the Event of their Counſels be<g ref="char:EOLhyphen"/>ing Shame and Confuſion. But <q>there are thoſe alive (writes an Illuſtrious Per<g ref="char:EOLhyphen"/>ſon) that know how far (at firſt) their Souls abhorr'd, what afterwards neither Policy or Power could reſtrain. When (as his Majeſty from <hi>Breda</hi> obſerves) Through Miſtakes and Miſunderſtandings Many Inconveniencies were produc'd, which were not intended.</q> However, we are told, <hi>That the Parliament is not to be excus'd from giving great Occaſion of Rebellion, beſides Suſpicion of a Deſign.</hi> Though the Earl of <hi>Caſtlehaven</hi> (in his Epiſtle to his <hi>Memoires</hi>) which ought however to be reflected on, is ſo juſt as to confeſs, "That the <hi>Iriſh</hi> Rebellion brake forth in a "time of ſettled Peace, without the leaſt Occaſion given; which comes now to be conſider'd.</p>
+            <p>The Method the Author takes I am ſorry to find, being, That he makes the Con<g ref="char:EOLhyphen"/>ſpiracies and Plots that were charg'd <hi>on thoſe of the</hi> Iriſh <hi>Profeſſion in</hi> England, to be meer Forgery; <hi>whence the</hi> Iriſh <hi>took a ſuſpition, leſt they too ſhould be debarr'd of a Re<g ref="char:EOLhyphen"/>ligion derived from their Anceſtors</hi> 1300 <hi>Years.</hi>
+            </p>
+            <p>What was ſuſpected of the <hi>Engliſh Romaniſts,</hi> I ſhall not here inſiſt on; it being Notorious that the late Plot (ſo uneaſie to the King, ſo deſperate to the State) hath been like the Dragon in the <hi>Apocalyps,</hi> long watching to devour the Proteſtants, though great Subtilty hath been us'd, both in the Chair and Pulpit, to decry what hath been foretold thereof: As if all the Complaints againſt Popery, theſe Fifty or Sixty years, had been as Properties only to colour the neglect of more weighty Bu<g ref="char:EOLhyphen"/>ſineſs, and affront the Government, till the Event had almoſt juſtified the Au<g ref="char:EOLhyphen"/>guriſm.</p>
+            <pb n="2" facs="tcp:95092:2"/>
+            <p>But as for the <hi>Iriſh,</hi> I muſt ſay, if to prevent an Evil (as a great Father of the Je<g ref="char:EOLhyphen"/>ſuits will have it) <hi rend="margQuotes">One may aſſume Arms, ruin States, invade their Neighbours, <hi>and that meerly on a Suſpition.</hi>
+               </hi> I know not who may be ſecure; otherwiſe none ever enjoy'd with greater Freedom not a Connivance only of their Religion, but a thorough Practice of it at that day, till their Preſumption look'd Authority in the Face. Having <q>Archbiſhops, and Biſhops for all their Sees, moſt of whom the Pope had <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade not long before, and in all likelihood for this Occaſion. They had ab<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hundred <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hown Convents of ſeveral Orders in that Kingdom, and their Prie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, in all parts of it, freely exerciſing their Function.</q> So as in reference to their Religion, they had no reaſon <hi>to expect a Storm,</hi> much leſs That <hi>That and their Nation ſhould be extirpated:</hi> Which from a Rumor rais'd at an Aſſize (as 'tis feign'd) from Sr. <hi>William Parſons</hi> and Sr. <hi>Adam Loftus,</hi> 
+               <q>That an Army of 10000 <hi>Scots</hi> was to arrive in <hi>Ireland,</hi> to force the Catholicks to change their Religion, and that <hi>Ireland</hi> could never do well without a Rebellion, to the End the Rem<g ref="char:EOLhyphen"/>nant of the Natives might be extirpated,</q> hath begot ſome Credit, though on ſo improbable grounds, that 'tis not like that men of ſuch Eſtates in <hi>Ireland,</hi> who had been ſo ſignally Inſtrumental to the ſettlement of that Kingdom in Peace, and had ſuch a Numerous Progeny, ſhould ever hope for a Diſturbance there, where the Re<g ref="char:EOLhyphen"/>ſult muſt be their certain Ruin: No! This Rumor was hatch'd, as the Rebellion, Firſt to raiſe Tumults, and then by unjuſtifiable and improbable Pretences to ground their aſſuming Arms thereon. It muſt be confeſs'd, the <hi>Iriſh</hi> were ever zealous aſ<g ref="char:EOLhyphen"/>ſerters of their Religion; it may be (as we are told) 1300 years; but <hi>That</hi> was not, as the Learned and Incomparable Archbiſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> affirms, <hi>what</hi> is now own'd, <hi>the Ancient Religion of the</hi> Iriſh. However; before the Rebellion broke forth, was there ever any thing declared againſt the Connivance which had been uſed in that Kingdom ever ſince the Reformation, of which we have ſpoke ſomething before? No! Nothing but their inbred hatred to the <hi>Engliſh</hi> tended to make it a National Quarrel; from whence, if many prov'd to be eradicated, their own Guilt begat the Event.</p>
+            <p>And <hi>as for the</hi> Iriſh <hi>Committee's being constrain'd</hi> (after his Majeſties going for <hi>Scot<g ref="char:EOLhyphen"/>land</hi> the 10th. <hi>Auguſt</hi> 41.) <hi>to return without any Redreſs.</hi> It's ſuch a Miſtake, as there was nothing which this Committee requeſted, which was not fully granted; His Majeſty (as to the Favour this Committee had with the Parliament) expreſſy decla<g ref="char:EOLhyphen"/>ring <hi>Alſo,</hi> 
+               <q>That thoſe of the Parliament of <hi>Ireland,</hi> by whom that Rebellion was hatch'd, were (by the Members of the Parliament of <hi>England</hi>) countenanc'd in their Complaints and Proſecutions.</q> Yea the Lord Keeper in his Speeches in the Banquetting Houſe the 21th of <hi>April</hi> 40. acquaints the Commons (as an Argument to truſt the King if they would ſupply his late Neceſſities) That the <hi>Iriſh</hi> had all that they did deſire granted, and had it with Advantage. So as the <hi>Iriſh</hi> (how confident ſoever the View of the Late Troubles in <hi>England</hi> will have it) can never be ſaid to be exaſperated, <hi>That under Colour of ſuppreſſing them as Rebels</hi> (from which all the Water of the Sea cannot waſh them) <hi>they might b<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tterly destroy'd or eradicated:</hi> Indeed I cannot ſay, but when the Rebells were in Arms, the leaſt Proceedings againſt them (how juſt ſoever) might be <hi>Incentives</hi> ſufficient to blow up the Sparks in others, which wanted not prediſpos'd Fuel for Rebellion. But that which the Parliament did then ſhould encourage the Rebels, is a Suggeſtion ſo improbable, that thoſe who read the Order of the Lords and Commons in Parliament in <hi>England,</hi> concerning <hi>Ireland,</hi> reprinted at <hi>Dublin,</hi> the 12th. of <hi>Nov.</hi> wooing the Rebels to Submiſſion, allowing Rewards to ſuch as ſhould do ſervice to the State, and the States frequent offers to the ſame purpoſe, muſt conclude the Parliament neither gave <hi>Occaſion</hi> of (nor had a <hi>Deſign</hi> in) the <hi>Iriſh</hi> Rebellion: It's wiſhed that thoſe, who cover that Rebellion with theſe Fig-Leaves, work not in the ſame Loom.</p>
+            <p>I cannot ſay but the <hi>Scots</hi> were willing to have had larger footing in <hi>Ireland</hi> than they then had: Yet I do not find (by any Attempt they made) <hi>That they ever endan<g ref="char:EOLhyphen"/>ger'd the Shouldering of the Natives out.</hi> Nay! So far was the Care of the State re<g ref="char:EOLhyphen"/>markable before the Rebellion, leſt the <hi>Scots</hi> (menacing <hi>England</hi>) ſhould offer any Violence on the North of <hi>Ireland,</hi> as the State <hi>Anno</hi> 39. ſent an Army down thither purpoſely to awe the <hi>Scots, under a Command</hi> that very prudently manag'd that Af<g ref="char:EOLhyphen"/>fair. And <hi>Anno</hi> 40. the Earl of <hi>Strafford</hi> order'd his New-rais'd Army to keep their
+<pb n="3" facs="tcp:95092:2"/>Rendezvouz in the North, intending to have landed them near <hi>Dunbarr Frith</hi> in <hi>Scotland,</hi> the better to divert the <hi>Scots</hi> from attempting <hi>Ireland;</hi> Than which there cannot be a greater Proof <hi>that the Inſolencies of the</hi> Scots (how maliciouſly ſoe<g ref="char:EOLhyphen"/>ver inforc'd) could never be able to have <hi>Eradicated the Natives.</hi>
+            </p>
+            <p>But we are told in the next place, <hi>That the Eager Proſecution of the Act for the Con<g ref="char:EOLhyphen"/>fiſcation of the Rebels Lands was not without ſuſpition, That the Members at</hi> Weſtmin<g ref="char:EOLhyphen"/>ſter <hi>urg'd that Act to provoke the Rebels:</hi> Whereas, (as Affairs then ſtood) no other expe<g ref="char:EOLhyphen"/>dient could then readily be found, or, if there could, could any thing have been more juſt, than that the <hi>Engliſh</hi> (by the forfeiture of the <hi>Iriſh</hi> Eſtates) might thereby have been ſomewhat repair'd, and for the future ſecur'd in their Station? In reference to which (after his Majeſty had propos'd, <q>Whether it were ſeaſonable to declare Reſo<g ref="char:EOLhyphen"/>lutions, before the Events of a War be ſeen: He gave them thanks for their Care and chearful Engagement for the Suppreſſion of that Rebellion, upon the ſpeedy effect<g ref="char:EOLhyphen"/>ing whereof the Glory of God in the Proteſtant Profeſſion, the Safety of the <hi>Britiſh</hi> there, His Honour, and that of the Nation ſo much depended.</q>
+            </p>
+            <p>As for the <hi>hindring of his Majeſty to go over,</hi> the Reaſons the Parliament gave were ſo obvious, as his Majeſty acquieſced therein; replying in his Anſwer to the Parlia<g ref="char:EOLhyphen"/>ment on that Subject, <q>That he was glad to find the work of <hi>Ireland</hi> ſo eaſie as they ſeem'd to think it; It not appearing when He ſent his Meſſage, and therefore He would ſtay ſome time, to ſee the Event of thoſe great Succeſſes they mention'd, till he had given them a Second Notice.</q>
+            </p>
+            <p>And as <hi>for the getting of the War into their Own Hands,</hi> It's Evident that few would have adventur'd (at that time of Fears and Jealouſies) to have advanc'd large Sums, had they not had a Gracious Commiſſion from his Majeſty; impowering ſuch per<g ref="char:EOLhyphen"/>ſons as were recommended to Him by the Parliament, "To adviſe" order, and "diſpoſe of All things concerning the Government and Defence of that Kingdom; In ſuch a way as ſhould be thought moſt effectual by the Wiſdom and Authority of Parliament! It being known that the <hi>Iriſh</hi> won Ground, when the Parliament every hour wither'd in his Affections.</p>
+            <p>It's generally reported (and thence ſome have made a Concluſion) <hi>That if the</hi> 8000 <hi>disbanded</hi> Iriſh <hi>had been permitted (as promis'd) to have been tranſported for</hi> Spain, <hi>the</hi> Iriſh <hi>might have wanted an Encouragement to have proceeded in their deſperate Enter<g ref="char:EOLhyphen"/>prize.</hi> It cannot be denied but that the <hi>Iriſh</hi> (who were train'd up in that Army) were very ſerviceable to the Rebels at their firſt Adventure: And ſome have thought it an ill Policy in the State There, That the <hi>Iriſh</hi> ſhould be inſtructed in Arms. But certain it was, that the whole 8000 were never deſign'd to be ſent abroad; and for thoſe that were hindred, it was more the Artifice of the <hi>Romiſh</hi> Members of Parliament in <hi>Ireland,</hi> who by very many plauſible and inſinuating Arguments im<g ref="char:EOLhyphen"/>portunately urg'd their ſtay, than any Motion Inforc'd by the <hi>Engliſh</hi> Parliament, more than that they might be made good Husband-men at home, of which that Kingdom had great need.</p>
+            <p>As <hi>to the want of a Lord Lieutenant in</hi> Ireland, (the Earl of <hi>Strafford</hi> not being long before taken off) it muſt be acknowledg'd, that he was an Eminent Inſtrument of State, and had as great an Inſight into the Temper and Condition of the <hi>Iriſh,</hi> as happily any that preceeded or may ſucceed him. Yet it muſt alſo be allow'd, that the times were of themſelves quiet, and the ſeveral Humors were not ſo angerly ga<g ref="char:EOLhyphen"/>thered together as to force a <hi>Criſis,</hi> ſo as imperfect Plots were eaſily broken; where<g ref="char:EOLhyphen"/>as if he had liv'd to the Seaſon, there being at that time Complications both of Encouragement and Connivance, the Rebellion might have outwatch'd his Provi<g ref="char:EOLhyphen"/>dence; Nothing by the Governors, then in place, being attempted like thoſe In<g ref="char:EOLhyphen"/>citements which the Conſpirators (from his Lordſhips Government) avow as the Riſe and Growth of all their Complaints and Grievances. Beſides, within few days after that the Earl of <hi>Strafford</hi> was beheaded, the Earl of <hi>Leiceſter</hi> (who had been imployed in moſt of the conſiderable Embaſſies abroad) was deſign'd for that Go<g ref="char:EOLhyphen"/>vernment; <q>Being thought by his Knowledge in Martial Affairs, and other his great Abilities, to be abundantly capable to reduce the <hi>Iriſh</hi> to due Obedience:</q> And certainly had he gone over, the Civil and Martial Power having been lodg'd in One hand, there would have been that Expedition in the work, as others, ta<g ref="char:EOLhyphen"/>king meaſures from their Intereſt, unfortunately prolong'd.</p>
+            <pb n="4" facs="tcp:95092:3"/>
+            <p>Other things, as <hi>The Inſurrection of the</hi> Scots, from whence the <hi>Iriſh</hi> might feign a Preſident, but juſtly could make That no Example: And <hi>The Parliaments unwil<g ref="char:EOLhyphen"/>lingneſs to levy men, till the King had diſclaim'd his Power of Preſſing; The Parliaments making uſe of the Money for the Relief of</hi> Ireland, might here be inſiſted on: But what are <hi>theſe</hi> to the Motives or Occaſion of that Rebellion fully diſcuſs'd in the Treaty at <hi>
+                  <g ref="char:V">Ʋ</g>xbridge?</hi> Indeed it may be ſaid that thoſe who in Theſe, or other reſpects wrought their own Ends, were Obſtructers of that War: But nothing appears ſo plain, as that the unhappy difference betwixt the King and Parliament then, was the chief Obſtacle. And for that Particular ſo much enforc'd, <hi>That Orders were made by the Houſe of Parliament in</hi> England, <hi>encroaching upon the Priviledges of Parli<g ref="char:EOLhyphen"/>ament in</hi> Ireland, I muſt confeſs I am ignorant; unleſs as to Sr. <hi>George Radcliff</hi>'s Caſe, who being a Member of the Commons Houſe of Parliament in <hi>Ireland,</hi> was ſent for thence, After a long Debate, whether it would not be a Breach of Privi<g ref="char:EOLhyphen"/>ledge of the Parliament there, to demand by Order of the Commons of <hi>England</hi> a Member thence? Which was unanimouſly agreed on to be no Breach of Priviledge, for that being impeach'd of Treaſon, there was no doubt but he might be ſent for Thence: No Priviledge of Parliament neither Here nor There being ſufficient to Protect him; And accordingly the King writ to his Deputy, that Expedition might be ſhew'd in that Buſineſs, which effectually was done. And I find Sr. <hi>John Vaughan</hi> (late Lord Chief Juſtice of the Common Pleas in <hi>England</hi>) in <hi>Craw</hi>'s Caſe <hi>verſus Ramſey fol.</hi> 292. makes it evident, "That <hi>Ireland</hi> is not abſolute <hi>Sui Juris,</hi> decla<g ref="char:EOLhyphen"/>ring amongſt other things, "That the Parliament There cannot make it ſelf not ſubject to the Laws, and ſubordinate to the Parliament of <hi>England;</hi> which, in that <hi>Ireland</hi> is a Conquer'd Nation, may eaſily be allow'd, and not thought much of by any whoſe Intereſt is <hi>Engliſh,</hi> or their Hearts Loyal, after ſuch an expence of Treaſure, and ſo much Blood as the <hi>Engliſh</hi> have been prodigal of to ſubdue that Kingdom.</p>
+            <p>To conclude, We are told, <hi>That the Northern Parts of</hi> Ireland <hi>were given up to the</hi> Scots, <hi>and a ſmall Body of the</hi> Engliſh <hi>were ſent to preſerve the South.</hi> That a conſider<g ref="char:EOLhyphen"/>able Force of the <hi>Scots</hi> went thither is certain, but what Service they did there more than live upon the Countrey, is to be enquired. Indeed thoſe who were there be<g ref="char:EOLhyphen"/>fore acted well, and 'twas thought that the New <hi>Scots</hi> were ſent thither more for Conveniency (the Paſſage being ſhort) than for any Confidence repos'd in them; His Majeſty very materially taking notice, <q>That ſome of the Articles (by which they came thither) imployed too great Truſt for Auxiliary Forces, though to pre<g ref="char:EOLhyphen"/>vent greater Delays in the neceſſary Supply of <hi>Ireland,</hi> He would not further in<g ref="char:EOLhyphen"/>ſiſt on any thing that would delay them.</q> And as for the <hi>Engliſh</hi> in the South, their Courage and Conduct every way appeared remarkable, the Ceſſation being made to their Prejudice and the Cauſes of it (neceſſity) evidenced lately (by an Excellent Pen) to be diſputable, if not fictitious; ſerving rather to give the <hi>Iriſh</hi> more Security, than advance the <hi>Engliſh</hi> Intereſt, <hi rend="margQuotes">That the Confederates might Reign alone.</hi>
+            </p>
+            <p>Thus I have run o're the <hi>Eighth</hi> Chapter you commended to my view <hi>in the Short View of the Late Troubles in</hi> England, and that not with ſo ſevere a Reflection as it required, It being like to be Favour'd, when I may not be heard: But in maintenance of the <hi>Engliſh</hi> Intereſt in <hi>Ireland;</hi> the State's Integrity there, and what was holdly attempted by the <hi>Iriſh;</hi> you ſhall ever have the Affection of</p>
+            <closer>
+               <signed>SIR, <hi>Your Faithful Humble Servant.</hi>
+               </signed>
+               <date>The laſt of <hi>April</hi> 1681.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Randall Taylor <hi>in</hi> Amen-Corner. <hi>1681.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
